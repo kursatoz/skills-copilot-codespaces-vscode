@@ -1,5 +1,5 @@
-    function calculateTwoNumber(a, b){      
-
+    function calculateTwoNumber(var1, var2){      
+console.log(var1+var2);
 
     }       
             
